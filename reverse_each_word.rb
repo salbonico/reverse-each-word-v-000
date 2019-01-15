@@ -5,5 +5,5 @@ temp.map do |word|
   word.reverse
 end
 output = temp.join(" ")
-
+return output
 end
